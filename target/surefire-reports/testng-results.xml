@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="35319" started-at="2018-11-08T20:06:21Z" finished-at="2018-11-08T20:06:56Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="35319" started-at="2018-11-08T20:06:21Z" finished-at="2018-11-08T20:06:56Z">
+      <class name="udemy.maven.testing.AppiumExample">
+        <test-method status="PASS" signature="oppoTest()[pri:0, instance:udemy.maven.testing.AppiumExample@614ddd49]" name="oppoTest" duration-ms="0" started-at="2018-11-08T20:06:21Z" finished-at="2018-11-08T20:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- oppoTest -->
+        <test-method status="PASS" signature="samsungTest()[pri:0, instance:udemy.maven.testing.AppiumExample@614ddd49]" name="samsungTest" duration-ms="1" started-at="2018-11-08T20:06:21Z" finished-at="2018-11-08T20:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- samsungTest -->
+        <test-method status="PASS" signature="testOverride()[pri:0, instance:udemy.maven.testing.AppiumExample@614ddd49]" name="testOverride" duration-ms="0" started-at="2018-11-08T20:06:21Z" finished-at="2018-11-08T20:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOverride -->
+        <test-method status="PASS" signature="chromeTest()[pri:0, instance:udemy.maven.testing.AppiumExample@614ddd49]" name="chromeTest" duration-ms="17635" started-at="2018-11-08T20:06:21Z" finished-at="2018-11-08T20:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeTest -->
+        <test-method status="PASS" signature="firefoxTest()[pri:0, instance:udemy.maven.testing.AppiumExample@614ddd49]" name="firefoxTest" duration-ms="17574" started-at="2018-11-08T20:06:38Z" finished-at="2018-11-08T20:06:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firefoxTest -->
+      </class> <!-- udemy.maven.testing.AppiumExample -->
+      <class name="udemy.maven.jenkins.TestNG">
+        <test-method status="PASS" signature="basicTest()[pri:0, instance:udemy.maven.jenkins.TestNG@76707e36]" name="basicTest" duration-ms="17" started-at="2018-11-08T20:06:21Z" finished-at="2018-11-08T20:06:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basicTest -->
+      </class> <!-- udemy.maven.jenkins.TestNG -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
